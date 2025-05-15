@@ -1,4 +1,4 @@
-use rfs::file_system::{FileSystem, LocalFileSystem};
+use rfs_br::file_system::{FileSystem, LocalFileSystem};
 
 #[test]
 fn test_file_system() {

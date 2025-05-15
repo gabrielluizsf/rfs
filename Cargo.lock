@@ -3,5 +3,5 @@
 version = 4
 
 [[package]]
-name = "rfs"
+name = "rfs_br"
 version = "1.0.0"
