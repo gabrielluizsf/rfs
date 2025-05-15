@@ -2,5 +2,10 @@
 name = "rfs_br"
 version = "1.0.0"
 edition = "2024"
+description = "Rust File System"
+authors = ["gabrieluizsf"]
+license = "MIT"
+repository = "https://github.com/gabrieluizsf/rfs"
+documentation = "https://github.com/gabrieluizsf/rfs/blob/main/README.md"
 
 [dependencies]
