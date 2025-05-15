@@ -17,7 +17,7 @@
 ## 🔧 Usage
 
 ```rust
-use rfs::file_system::{FileSystem, LocalFileSystem};
+use rfs_br::file_system::{FileSystem, LocalFileSystem};
 
 fn main() -> std::io::Result<()> {
     let fs = LocalFileSystem;
