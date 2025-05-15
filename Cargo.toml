@@ -1,12 +1,12 @@
 [package]
 name = "rfs_br"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 description = "Rust File System"
 authors = ["gabrieluizsf"]
 license = "MIT"
-repository = "https://github.com/gabrieluizsf/rfs"
-homepage = "https://github.com/gabrieluizsf/rfs"
-documentation = "https://github.com/gabrieluizsf/rfs/blob/main/README.md"
+repository = "https://github.com/gabrielluizsf/rfs"
+homepage = "https://github.com/gabrielluizsf/rfs"
+documentation = "https://github.com/gabrielluizsf/rfs/blob/main/README.md"
 
 [dependencies]
